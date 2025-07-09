@@ -5,7 +5,7 @@ This project uses machine learning models to predict customer churn using the [T
 ---
 
 ## 🛠️ Tech Stack
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Python (Pandas, NumPy, Matplotlib)
 - Scikit-learn (DecisionTree, RandomForest, Model Evaluation)
 - Jupyter Notebook
 
